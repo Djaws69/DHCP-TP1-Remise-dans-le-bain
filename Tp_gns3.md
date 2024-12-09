@@ -293,7 +293,7 @@ sudo dnf update -y
 
 4. Activez la connexion :
    ```bash
-   sudo nmcli connection up lan
+   sudo nmcli connection up ok
    ```
 
 5. Vérifiez que l'IP statique est appliquée :
